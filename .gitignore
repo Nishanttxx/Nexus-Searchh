@@ -56,3 +56,10 @@ app.*.map.json
 /android/app/release
 #Local environment variables
 .env*
+
+
+server/venv/
+venv/
+__pycache__/
+*.pyc
+.env
